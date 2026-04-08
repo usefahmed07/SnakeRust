@@ -1,4 +1,4 @@
-# rsnake - An implementation of classic snake in rust
+# rsnake - An implementation of classic snake in rust.
 
 
 <img src="./assets/snake.gif" style="width: 100%;" />
